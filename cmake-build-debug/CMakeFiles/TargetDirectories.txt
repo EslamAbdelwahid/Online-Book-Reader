@@ -1,0 +1,3 @@
+C:/Users/eslam/CLionProjects/OnlineBookReader/cmake-build-debug/CMakeFiles/OnlineBookReader.dir
+C:/Users/eslam/CLionProjects/OnlineBookReader/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eslam/CLionProjects/OnlineBookReader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
